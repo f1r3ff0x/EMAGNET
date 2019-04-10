@@ -3,7 +3,7 @@
 ## _"I'll will find you, it's just a matter of time"_
 
 
-#### Congrats windows users, here is a tutorial how you can get started in ~1min
+#### Congrats windows users, [here](https://github.com/wuseman/EMAGNET/wiki/Installation) is a tutorial how you can get started in ~1min
 
 #### _Emagnet keep watch, so you don’t have to._
 
